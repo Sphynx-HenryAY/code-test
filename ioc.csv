@@ -1,0 +1,4 @@
+ip,domain,description,rule
+8.8.8.8,example.com,Google Public DNS,deny
+218.92.0.112,example.org,China Telecom,allow
+205.210.31.89,example.net,Amazon Web Services,allow
